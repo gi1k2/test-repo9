@@ -1,0 +1,108 @@
+* {
+    background-color: #d50133;
+}
+
+
+.imgblock {
+    position: relative;
+    display: inline-block;
+    
+    }
+
+    .imgblock img {
+    height: 500px;
+    width: 500px; 
+     
+    }
+    .imgblock span {
+    position: absolute;
+    top: 20%;
+    left: 20px;
+  text-align: center;
+
+
+
+    }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+p2 {
+    font-size: 33px;
+}
+
+.left {
+    float:left;
+    padding: 0 20px 20px 0;
+    width:"30%";
+    background-attachment: fixed;
+    font-size: 33px;
+}
+
+footer {
+    font-size: 20px;
+    height: 50px;
+}
+
+.my-image {
+    width: 5%;
+}
+.sidebar{
+    width: 30%;
+    font-size: 33px;
+
+}
+left,
+.right {
+  display: block;
+  width: 100%;
+  font-size: 33px;
+}
+
+.left img,
+.right img {
+  display: inline-block;
+  margin: 10px;
+}
+
+.left img {
+  float: left;
+  margin-left: 0;
+}
+
+.right img {
+  float: right;
+  margin-right: 0;
+}
+.Yraaa
+.Yraaa {
+    position: relative;
+    display: inline-block;
+    
+    }
+
+    .Yraaa img {
+    height: 500px;
+    width: 500px; 
+     
+    }
+    .Yraaa span {{color: white;}
+    position: absolute;
+    top: 20%;
+    left: 20px;
+  text-align: center;
+
+
+
+    }
